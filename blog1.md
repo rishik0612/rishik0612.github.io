@@ -1,6 +1,13 @@
+---
+layout: post
+title: "Microsoft Build 2026: Shift from Model to Context"
+date: 2026-07-03
+categories: AI Microsoft
+---
+
 # Microsoft Build 2026: Shift from Model to Context
 
-This post is about the latest advancements in the AI ecosystem, focusing on the new foundations being established by Microsoft Fabric IQ, the emergence of powerful new models, and the shift towards always-on autonomous agents like Microsoft Scout.
+This post is about the latest advancements in the AI ecosystem, focusing on the new foundations being established by Microsoft Fabric IQ, the emergence of powerful new models, and the shift towards al[...]
 
 ## 🚀 The New Semantic Foundation: Fabric IQ & Foundry IQ
 
@@ -15,7 +22,7 @@ Fabric IQ ties together various enterprise knowledge sources into a shared conte
 ### 2. Foundry IQ: Enabling Agent Workloads
 Foundry IQ focuses on making agent workloads frictionless through "scale to zero" pricing for context retrieval.
 
-*   **Serverless Context Retrieval:** Enables instant, frictionless access to organizational signals (Work IQ), structured data (Fabric IQ), file uploads, and MCP servers without managing clusters or paying idle costs.
+*   **Serverless Context Retrieval:** Enables instant, frictionless access to organizational signals (Work IQ), structured data (Fabric IQ), file uploads, and MCP servers without managing clusters or [...]
 *   **Enhanced Retrieval:** Achieves improved retrieval quality (up to 20% benchmark gains, 54% recall gains) and enhanced security features like federated identity credentials.
 
 ### 3. Web IQ: Real-World Grounding
