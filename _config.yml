@@ -1,3 +1,21 @@
 theme: jekyll-theme-minimal
-title: Your Blog Title
-description: Your description
+title: Rishik's Blog
+description: Exploring AI, Microsoft technologies, and software development
+author: Rishik Nippatla
+
+# Jekyll configuration
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Permalink structure for blog posts
+permalink: /:year/:month/:day/:title.html
+
+# Exclude files from Jekyll processing
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
